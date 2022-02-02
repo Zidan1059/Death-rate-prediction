@@ -1,4 +1,4 @@
-# Death-rate-prediction
+# Death-rate-prediction of COVID-19 positive patients
 The Death rate prediction of the patients who are COVID positive was done
 using five different ML algorithms. First, only the COVID-19 positive patients were
 selected from the whole dataset then the patients who died was selected from the
@@ -7,3 +7,4 @@ dataset the remaining data was 32,662. This 32,662 data was trained and tested u
 7:3 ratio. Five different ML classifiers: SVM, XGBoost, Random Forest, KNN and
 Logistic Regression were used to find how accurately they can predict the patients
 who died from COVID-19.
+Dataset used for this work : https://www.kaggle.com/tanmoyx/covid19-patient-precondition-dataset
